@@ -4,6 +4,7 @@ export default function Footer() {
   return (
     <div>
         <hr></hr>
-        Footer</div>
+        @copyright 2024. All rights reserved
+    </div>
   )
 }
